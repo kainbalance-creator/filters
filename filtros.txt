@@ -58,6 +58,39 @@ onedrive.live.com##.ms-MessageBar.ms-MessageBar--severeWarning.ms-MessageBar-sin
 www.4khd.com##.popup-iframe
 outlook.live.com##.fui-MessageBar.r2oyxsj.nvfvn.___1dbcxx0.fokr779.f13ftzij.frd1ypx.f1gyjrma.fqyqtrt.f18qd5xz
 mitaku.net###ywpwmjaselvlpkdjbizwrvqmvksistflmwjbzvmuzpsmxtcuzuazqzwml
+mitaku.net###kxpmhpfcflhkcksykrajjnszyejvdzvwxfvsgrawdobjsqtpabkr
+mitaku.net###munwnzctvnbdugestlzxdjcgunxupjotcwbjnrzkcusvxnustoemma
+mitaku.net###bunmywrhmnlxtvnvzybuxqkjxetgtfbhmdyznkxqylvtmjsykovvtikoqo
+mitaku.net###swpdbvvnchzttamjhqrprywkpyyvjrdywywsntvzdgnrmgrtdzjaeyk
+mitaku.net###bnbjztvbnfzlmkdobndfqwcohcbfndctffvxfunnpmmhzdendhiymdnljjy
+mitaku.net###edntrhzfqkmwsetfquvkqmcjrfvesxqvtmfrzcmxkagqwqmhtjbydztxnjd
+mitaku.net###ztnwmvizedhpwsnhcdevxsdlkudhanurlzhgqmsuuxnkdyzvhlodhrosu
+mitaku.net###mgjfqmfauuubzzxtdhzzkzyftrjxnnnrdwhjbdmbmjmukuoxjpstqsneg
+mitaku.net###bexesvdmuzvvlizzjnfwgycmjnynpivlhpckawkzzznrvpupwazbodkx
+mitaku.net###cgkrwexbzddrcmpqnmozujnhbrurrrzrxunrethwahpmwtsbuho
+mitaku.net###tkhzujkstqwzgdfmdzxmgvnwfrwvfsbjuljstnfcazhjzzirusyqtumavo
+mitaku.net###czvrrevcdjzuhwbtjwnulfwglxrwirrhhzjjntzlubcswntjgznlxndncfah
+mitaku.net###tunnzvdytfdehnndeludknqkjedgpisuyvddddgzkcitdrlestmvjbs
+mitaku.net###offyegytkxxtzjuteydlnqnitwtuhaapkzswemunnzsworcjdjstkrnkt
+mitaku.net###nlbzylplwuhothszmvrdkumswdftmwvqrtfethdrcnbxmhncwdlhyzzwiro
+mitaku.net###vqjidfazwfrzxnuzvdvbmjqbzfdlruvyzrghvsxhvvpthvrdzshugg
+mitaku.net###nnyoefvrwjtrzfhyjzvlbqqxzqsecanzcwyvpskvenczmuwtapclv
+mitaku.net###kyylhkuvsztcfhntmpurglnakfemwrxdfslnhwwthawxauvondhbsmf
+mitaku.net###dgmthznwszsnzerndewjardbanrjqnrjdrxdprnivmmfpseyzvoypu
+mitaku.net###mvcdvqdwqwzmayukvnfdxcrbvbtvderufwurqruuwjobuxhazrwumk
+mitaku.net###auluzekquvhzhgbzrurjjvmgdoexjmjjswdnvllldpamnexrmyzrujaw
+mitaku.net###uzuemnirwfxowrdfbrherbmvneszrxbkgvougzkvddezbywnnzzszoil
+mitaku.net###kznzvvruzymitrajhtfvalfzmjvjclpwudnrnnnelqurjztcrodzglrt
+mitaku.net###dmxrtfpddelakrgugltwlmdvlimhiwvyryclznjiwmtkzbettoxawm
+mitaku.net###vbjvxzlrrcauxqmldzrwdurhndsgdlaxnesghrtljckrnovhvhiazaswxi
+mitaku.net###vfputnmzmfldgremjfmrkbvcvxodgtiblvuvvtjubvhiawvvttwdmo
+mitaku.net###cmxakhptpyuglytlvemqwxjxcjhvlxmqzbaxvuzvvtkhbljvndiybxv
+mitaku.net###qdsavbqekvqygyqldtpkamxnofixmtzrysruudkulyqorqkztaznfocb
+mitaku.net###nhrassycjpttrsaddhqdgmxrjaurcrhznthzbwsqptakaliutzatvo
+mitaku.net###nldivjuvyvfqnznhcwrmbunpoeksvvienbevznkvhrjdzzvhrwhfcyzmraqd
+mitaku.net###mvtquerldownssmeraxvnnznmrnlicejkniwauhvnllhuwstutvczmkzjj
+mitaku.net###qaydytnrtqwrekqlrlrlnrqxztnjditkvhtdskuunwvbzzwsvyx
+
 mitaku.net###tfjrllstjaztuhotzhzstmcsywsncpuvfystdkvmialqrnxzzzdhmps
 mitaku.net###qmzzumpzrhowqgcjvuofjwxjbhhdjualtnzdidjoeutfnhdaodvdzeq
 mitaku.net###nwvnfjpexushzntdhmwqvowzswljqbwldwergnlytjnovzxmdijpta
@@ -106,5 +139,6 @@ mitaku.net###elzqddllbdlnzxjurvjxdlrdnlikvnktxtnbzvhvnttkveqnlhkczfjnzh
 gghh.uk##.popup-iframe
 music.youtube.com##ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-of-type(21) > .ytmusic-shelf.style-scope.ytmusic-carousel-shelf-renderer
 www.google.com##.jnyxRd.Y5Ip8c
+
 
 
