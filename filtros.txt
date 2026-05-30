@@ -1,144 +1,68 @@
 ! ====================
-! Mis filtros personales
+! Mis filtros personales - 30 Mayo 2026
 ! ====================
 
-
+! ====================
+! SXYPRN
+! ====================
 sxyprn.com##div.block_header:nth-of-type(6)
-x.com##div.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x:nth-of-type(4)
 sxyprn.com##div.cbd:nth-of-type(3)
 sxyprn.com##.comments_area
-www.eporner.com##[src*="/img/avatars/272780_200x200.jpg?1745616873"]
-sxyprn.com##div.post_el_small:has-text(#trans)
-sxyprn.com##div.post_el_small:has-text(#Trans)
-sxyprn.com##div.post_el_small:has-text(Hijab)
-sxyprn.com##div.post_el_small:has-text(TrannyLover)
-sxyprn.com##div.post_el_small:has-text(lorel)
-sxyprn.com##div.post_el_small:has-text(zilabuck)
-sxyprn.com##div.post_el_small:has-text(Blackmagicmodel)
-sxyprn.com##div.post_el_small:has-text(Shemale)
-
-simpcity.cr###js-XFUniqueId54 > .avatar-u4370586-m
-mitaku.net###yunvzuztywxyuvfwzvnvtmfesveyrtitzgyohzhdvazqjvgddkbexyzsdifd
-gghh.uk##.popup-iframe
-www.4khd.com##.popup-iframe
-www.eporner.com##.ad300px-inner
-www.eporner.com##.ad300px
-pornone.com##.grid-full-col.w-full
-hornysimp.com##.elementor-section.elementor-top-section.elementor-element.elementor-element-d31c47d.elementor-section-stretched.elementor-section-boxed.elementor-section-height-default
-
 sxyprn.com##.tbd > div
+sxyprn.com##div.post_el_small:has-text(/\b#(trans|Trans|Hijab|TrannyLover|lorel|zilabuck|Blackmagicmodel|Shemale)\b/i)
+
+! ====================
+! MITAKU (CHPadblock)
+! ====================
+mitaku.net##body > div[style*="fixed"]:has-text(/CHPadblock|Ads Blocker|ad blocker/i)
+mitaku.net##body > div[style*="z-index"]:has-text(/CHPadblock|Ads Blocker/i)
+mitaku.net##div[id^="chp-"], div[class*="chp"], div[id*="avp"]
+mitaku.net##*:has-text(/powered by CHPadblock|Ads Blocker Detected/i)
+mitaku.net##.chp-popup, .chp-modal, [id*="chpadblock"]
+mitaku.net##div[style*="overlay"], div[style*="fixed"][style*="bottom"]
+
+! ====================
+! Otros sitios
+! ====================
+x.com##div.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x:nth-of-type(4)
+
+www.eporner.com##[src*="/img/avatars/272780_200x200.jpg"]
+www.eporner.com##.ad300px-inner, .ad300px
 www.eporner.com###pbwuvpad
 www.eporner.com###vidcontent > div:nth-of-type(3)
-www.blacked.com##.sc-c1c02655-0.kuJmBI
-vidara.so##.ad-download-box.mb-4.position-relative
-www.vixen.com##.sc-c1c02655-0.kuJmBI
-www.tushy.com##.sc-c1c02655-0.kuJmBI
-www.deeper.com##.sc-c1c02655-0.imKiRP
-www.pornpics.com##[src*="\/api\/banner\/get\/blacksonblondes"]
-www.pornpics.com##.thumbwook.r2-frame.r2-frame-static.r2-frame-on.stamp-bn-1
-www.blackedraw.com##.sc-c1c02655-0.kuJmBI
-www.milfy.com##.sc-c1c02655-0.kuJmBI
-www.tushyraw.com##.sc-c1c02655-0.kuJmBI
 
-mitaku.net##div:has-text(/Ads Blocker Detected|Please disable your ad blocker|powered by CHPadblock/i)
-mitaku.net##div[id^="chp-"]
-mitaku.net##div[class*="chp"]
-mitaku.net##body > div[style*="fixed"][style*="z-index"]
-mitaku.net##div[style*="overlay"]
-mitaku.net##*:has-text(/CHPadblock/i)
-mitaku.net##.chp-popup, .chp-modal, [id*="chpadblock"]
+simpcity.cr###js-XFUniqueId54 > .avatar-u4370586-m
 
+gghh.uk, www.4khd.com##.popup-iframe
 
-outlook.live.com##.LBktY > .GssDD > .z0duZ > .sW3_9
-outlook.live.com##.LBktY > .GssDD > .z0duZ > .VdboX
-outlook.live.com##.LBktY > .GssDD > .z0duZ
-outlook.live.com##.LBktY > .GssDD
-onedrive.live.com##.ms-MessageBar-content.content-51
-onedrive.live.com##.ms-MessageBar.ms-MessageBar--severeWarning.ms-MessageBar-singleline.ms-MessageBar-dismissalSingleLine.root-50
+pornone.com##.grid-full-col.w-full
+hornysimp.com##.elementor-section.elementor-top-section.elementor-element.elementor-element-d31c47d
+
 www.4khd.com##.popup-iframe
-outlook.live.com##.fui-MessageBar.r2oyxsj.nvfvn.___1dbcxx0.fokr779.f13ftzij.frd1ypx.f1gyjrma.fqyqtrt.f18qd5xz
-mitaku.net###ywpwmjaselvlpkdjbizwrvqmvksistflmwjbzvmuzpsmxtcuzuazqzwml
-mitaku.net###kxpmhpfcflhkcksykrajjnszyejvdzvwxfvsgrawdobjsqtpabkr
-mitaku.net###munwnzctvnbdugestlzxdjcgunxupjotcwbjnrzkcusvxnustoemma
-mitaku.net###bunmywrhmnlxtvnvzybuxqkjxetgtfbhmdyznkxqylvtmjsykovvtikoqo
-mitaku.net###swpdbvvnchzttamjhqrprywkpyyvjrdywywsntvzdgnrmgrtdzjaeyk
-mitaku.net###bnbjztvbnfzlmkdobndfqwcohcbfndctffvxfunnpmmhzdendhiymdnljjy
-mitaku.net###edntrhzfqkmwsetfquvkqmcjrfvesxqvtmfrzcmxkagqwqmhtjbydztxnjd
-mitaku.net###ztnwmvizedhpwsnhcdevxsdlkudhanurlzhgqmsuuxnkdyzvhlodhrosu
-mitaku.net###mgjfqmfauuubzzxtdhzzkzyftrjxnnnrdwhjbdmbmjmukuoxjpstqsneg
-mitaku.net###bexesvdmuzvvlizzjnfwgycmjnynpivlhpckawkzzznrvpupwazbodkx
-mitaku.net###cgkrwexbzddrcmpqnmozujnhbrurrrzrxunrethwahpmwtsbuho
-mitaku.net###tkhzujkstqwzgdfmdzxmgvnwfrwvfsbjuljstnfcazhjzzirusyqtumavo
-mitaku.net###czvrrevcdjzuhwbtjwnulfwglxrwirrhhzjjntzlubcswntjgznlxndncfah
-mitaku.net###tunnzvdytfdehnndeludknqkjedgpisuyvddddgzkcitdrlestmvjbs
-mitaku.net###offyegytkxxtzjuteydlnqnitwtuhaapkzswemunnzsworcjdjstkrnkt
-mitaku.net###nlbzylplwuhothszmvrdkumswdftmwvqrtfethdrcnbxmhncwdlhyzzwiro
-mitaku.net###vqjidfazwfrzxnuzvdvbmjqbzfdlruvyzrghvsxhvvpthvrdzshugg
-mitaku.net###nnyoefvrwjtrzfhyjzvlbqqxzqsecanzcwyvpskvenczmuwtapclv
-mitaku.net###kyylhkuvsztcfhntmpurglnakfemwrxdfslnhwwthawxauvondhbsmf
-mitaku.net###dgmthznwszsnzerndewjardbanrjqnrjdrxdprnivmmfpseyzvoypu
-mitaku.net###mvcdvqdwqwzmayukvnfdxcrbvbtvderufwurqruuwjobuxhazrwumk
-mitaku.net###auluzekquvhzhgbzrurjjvmgdoexjmjjswdnvllldpamnexrmyzrujaw
-mitaku.net###uzuemnirwfxowrdfbrherbmvneszrxbkgvougzkvddezbywnnzzszoil
-mitaku.net###kznzvvruzymitrajhtfvalfzmjvjclpwudnrnnnelqurjztcrodzglrt
-mitaku.net###dmxrtfpddelakrgugltwlmdvlimhiwvyryclznjiwmtkzbettoxawm
-mitaku.net###vbjvxzlrrcauxqmldzrwdurhndsgdlaxnesghrtljckrnovhvhiazaswxi
-mitaku.net###vfputnmzmfldgremjfmrkbvcvxodgtiblvuvvtjubvhiawvvttwdmo
-mitaku.net###cmxakhptpyuglytlvemqwxjxcjhvlxmqzbaxvuzvvtkhbljvndiybxv
-mitaku.net###qdsavbqekvqygyqldtpkamxnofixmtzrysruudkulyqorqkztaznfocb
-mitaku.net###nhrassycjpttrsaddhqdgmxrjaurcrhznthzbwsqptakaliutzatvo
-mitaku.net###nldivjuvyvfqnznhcwrmbunpoeksvvienbevznkvhrjdzzvhrwhfcyzmraqd
-mitaku.net###mvtquerldownssmeraxvnnznmrnlicejkniwauhvnllhuwstutvczmkzjj
-mitaku.net###qaydytnrtqwrekqlrlrlnrqxztnjditkvhtdskuunwvbzzwsvyx
 
-mitaku.net###tfjrllstjaztuhotzhzstmcsywsncpuvfystdkvmialqrnxzzzdhmps
-mitaku.net###qmzzumpzrhowqgcjvuofjwxjbhhdjualtnzdidjoeutfnhdaodvdzeq
-mitaku.net###nwvnfjpexushzntdhmwqvowzswljqbwldwergnlytjnovzxmdijpta
-mitaku.net###ylhfvfprzxptmdsvvldnarelhctgnqkpzufdhfhmxrndfnunbcttrygfg
-mitaku.net###cgyqmzbmvvrohnddavnzmwehuaxhkzbrurkznjdgrvyfvwwnaodclzww
-mitaku.net###mellnjmwagxorlvnfrnbyyzgpnmmvloxnwgjvvndtyudzuglauzmnduifsi
-mitaku.net###cjbrmjutlkrallyswhlyjzvkfngrqbvrrajymlnnebrhtbjndurjxh
-mitaku.net###nvcgjvkfwwhjonhdvbehvwvfcdhftmkhdzjreedizwfjnfbudtrxwtnbbpv
-mitaku.net###yjzvzjfvnksyziqlnlvnnlvrtzvirdzvewzevhujjsvkxwutkcjua
-mitaku.net###wfzkufzislvztbgnvzehrbkpyxedtaquezanacdkzwrmulhittzobmi
-mitaku.net###amcvhjemkltzwvqmxvbcrvnhmgdstjawkdmqmjjrdbiuctsztlyodpouik
-mitaku.net###nzliyjtszftagdivrpoxdjnftcezoeishvwrwrrxvtjdpqxbcdzixons
-mitaku.net###zkrwvvfawtoetbnmehncwpivgdywnvthivvcsvyjdsexuvutvwhmwodbudse
-mitaku.net###qdnymiyxnortlvnkmpyuhdkmhhdxjreoeehtugxmbmvyafebzipwxe
-mitaku.net###yknjnmdytzdjrmzsatbwwernxdnsqckpfrjnvbnmgtoutdptjftwtqqgna
-mitaku.net###mllhsxvqnetwvxnrdmyxaxegtzduzvyvkfjnyyyxpndnnrvfrzznfvny
-mitaku.net###ownycehjsflncuandrnfmtfltlhthntajwujdbdzizsmwyvtlmoqn
-mitaku.net###kfualjfqudxbpavpmnledupsnrmzdtrdrjamviquntnkjisvzfbzslkuh
-mitaku.net###oweynblqnlbgtvmrudveoxjrzklxbkrrrulmcctssuzmupbtvvczwrhay
-mitaku.net###tfmnprrxjyzzvzmvcbxranersfrmskqvvmnfzjnevxohhtdnrvstrmduu
-mitaku.net###cgryuyddljschayblvjadvcsuwzqzvuctbteaymtyclljlvdstbuvtp
-mitaku.net###bfjgtlflylhlqlvnakfoaemrhrnmjuhjmyjzcdgnnxdzzcrkd
-mitaku.net###ehfonunotkgrgvymxozkxlrkyuztnwmwlolfbduhnexxbhpnduoroi
-mitaku.net###smlxoxjptrkwtzqwucrnpqwwvzbwtvuxmtnrachnrvjlrckirautguwkt
-mitaku.net###nlhazuyvgfrvjrycsuwnrrywlzvfnrhrwzezbdtjgunmmdxluio
-mitaku.net###tnenxpickzitfrtbkrbgdvsgthczhztxnxoxjfssqajntnztdcqttfjor
-dlpsgame.com##[src*="https\:\/\/dlpsgame\.com\/wp-content\/uploads\/2015\/06\/media-51973\.jpg"]
+www.blacked.com,www.blackedraw.com,www.vixen.com,www.tushy.com,www.deeper.com,www.milfy.com,www.tushyraw.com##.sc-c1c02655-0.kuJmBI
+www.deeper.com##.sc-c1c02655-0.imKiRP
+
+www.pornpics.com##[src*="/api/banner/get/blacksonblondes"]
+www.pornpics.com##.thumbwook.r2-frame.r2-frame-static.r2-frame-on.stamp-bn-1
+
+vidara.so##.ad-download-box.mb-4.position-relative
+
+! ====================
+! Microsoft / Outlook / Onedrive
+! ====================
+outlook.live.com, onedrive.live.com##.LBktY > .GssDD > .z0duZ
+outlook.live.com, onedrive.live.com##.ms-MessageBar
+outlook.live.com##.fui-MessageBar
+outlook.live.com##.kk1xx.lHRXq.iIsOF
+
+! ====================
+! Otros
+! ====================
+dlpsgame.com##[src*="dlpsgame.com/wp-content/uploads/2015/06/media-51973.jpg"]
 www.google.com##.XPuBac
-mitaku.net###dwjmngqnzqethxaklpchregpywfkdgtposqbqvnuzzrjvkazlhlsu
-mitaku.net###tdnaumtrgmcsyqthpnthobjfundjkcuhkwgtwdkmfpzqzbtbzlvpzb
 docs.google.com##.javascriptMaterialdesignGm3WizBannerBannerContent
 web.whatsapp.com##.x1rjt51p.x16w0wmm.x1g83kfv.x3qq2k7.x2x8art.x1qor8vf.xl7twdi.xyo0t3i.xvg22vi.xb0esv5.x98l61r.xviac27.x1ua1l7f.xlese2p.x1j3ira4.xrdqr27.x9f619.xg7h5cd.x78zum5.xdt5ytf.x6s0dn4
-mitaku.net###yxcefpztfreuwhutdmadvdbquvrkdnjadzirgtbbfezcqzehgbzaetta
-mitaku.net###nmfxaerowwccdjunetmvrjywtssitlnjbvvbxnnvosvvmthhrdeozutgylcu
-outlook.live.com##.kk1xx.lHRXq.iIsOF.OXL_K.UWKUc.rqCML.YmHO2.DLvHz
-www.instagram.com##.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x3j1f2j.xqb9ast.x1htk8sl.x19kjcj4.x1bcv9lm.x14v7lna.xtuz4j8
-cl.pinterest.com##.ADXRXN.Fm_EPH.NYgy1O.aHn_t7.bnBtRO.mJ2PyB.n62I2n > div:nth-of-type(1)
+music.youtube.com##ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-of-type(21)
 cl.pinterest.com##.ADXRXN.Fm_EPH.NYgy1O.aHn_t7.bnBtRO.mJ2PyB.n62I2n
-mitaku.net###txzizgjasljjkriczcylpjyzqbkxuurhtjneefoeegzogduqjwqtypwua
-mitaku.net###crsnmjfmmdnllmuxrwwvastrovpgsthqvdhiddzwcflpyxgsyzrtjillm
-mitaku.net###ncpyllsknjwtnrgneytzavuhznvjnzknwakxcgfrwmswnwzzczvsdjo
-mitaku.net###dlrtzhffunjsuuqtnmyuxhdnockzevywsgtbsziwkrooffhbjzqqtyjqbb
-mitaku.net###ctvfzvjhdznnofqwztwslnkqwrkuufuvzfqwizdnuuxhcnvjyjjvttdvvll
-mitaku.net###vuybhilpyaxrunfpqawramjmqmodwtiugvtrwzmwjvcbkxmddutcccnp
-mitaku.net###elzqddllbdlnzxjurvjxdlrdnlikvnktxtnbzvhvnttkveqnlhkczfjnzh
-gghh.uk##.popup-iframe
-music.youtube.com##ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-of-type(21) > .ytmusic-shelf.style-scope.ytmusic-carousel-shelf-renderer
-www.google.com##.jnyxRd.Y5Ip8c
-
-
-
+www.instagram.com##.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x3j1f2j.xqb9ast.x1htk8sl.x19kjcj4.x1bcv9lm.x14v7lna.xtuz4j8
