@@ -14,12 +14,14 @@ sxyprn.com##div.post_el_small:has-text(/\b#(trans|Trans|Hijab|TrannyLover|lorel|
 ! ====================
 ! MITAKU (CHPadblock)
 ! ====================
-mitaku.net##body > div[style*="fixed"]:has-text(/CHPadblock|Ads Blocker|ad blocker/i)
-mitaku.net##body > div[style*="z-index"]:has-text(/CHPadblock|Ads Blocker/i)
-mitaku.net##div[id^="chp-"], div[class*="chp"], div[id*="avp"]
-mitaku.net##*:has-text(/powered by CHPadblock|Ads Blocker Detected/i)
+
+mitaku.net##div:has-text(/Ads Blocker Detected|Please disable your ad blocker|powered by CHPadblock/i)
+mitaku.net##div[id^="chp-"]
+mitaku.net##div[class*="chp"]
+mitaku.net##body > div[style*="fixed"][style*="z-index"]
+mitaku.net##div[style*="overlay"]
+mitaku.net##*:has-text(/CHPadblock/i)
 mitaku.net##.chp-popup, .chp-modal, [id*="chpadblock"]
-mitaku.net##div[style*="overlay"], div[style*="fixed"][style*="bottom"]
 
 ! ====================
 ! Otros sitios
