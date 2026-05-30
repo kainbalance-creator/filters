@@ -49,3 +49,62 @@ mitaku.net##*:has-text(/CHPadblock/i)
 mitaku.net##.chp-popup, .chp-modal, [id*="chpadblock"]
 
 
+outlook.live.com##.LBktY > .GssDD > .z0duZ > .sW3_9
+outlook.live.com##.LBktY > .GssDD > .z0duZ > .VdboX
+outlook.live.com##.LBktY > .GssDD > .z0duZ
+outlook.live.com##.LBktY > .GssDD
+onedrive.live.com##.ms-MessageBar-content.content-51
+onedrive.live.com##.ms-MessageBar.ms-MessageBar--severeWarning.ms-MessageBar-singleline.ms-MessageBar-dismissalSingleLine.root-50
+www.4khd.com##.popup-iframe
+outlook.live.com##.fui-MessageBar.r2oyxsj.nvfvn.___1dbcxx0.fokr779.f13ftzij.frd1ypx.f1gyjrma.fqyqtrt.f18qd5xz
+mitaku.net###ywpwmjaselvlpkdjbizwrvqmvksistflmwjbzvmuzpsmxtcuzuazqzwml
+mitaku.net###tfjrllstjaztuhotzhzstmcsywsncpuvfystdkvmialqrnxzzzdhmps
+mitaku.net###qmzzumpzrhowqgcjvuofjwxjbhhdjualtnzdidjoeutfnhdaodvdzeq
+mitaku.net###nwvnfjpexushzntdhmwqvowzswljqbwldwergnlytjnovzxmdijpta
+mitaku.net###ylhfvfprzxptmdsvvldnarelhctgnqkpzufdhfhmxrndfnunbcttrygfg
+mitaku.net###cgyqmzbmvvrohnddavnzmwehuaxhkzbrurkznjdgrvyfvwwnaodclzww
+mitaku.net###mellnjmwagxorlvnfrnbyyzgpnmmvloxnwgjvvndtyudzuglauzmnduifsi
+mitaku.net###cjbrmjutlkrallyswhlyjzvkfngrqbvrrajymlnnebrhtbjndurjxh
+mitaku.net###nvcgjvkfwwhjonhdvbehvwvfcdhftmkhdzjreedizwfjnfbudtrxwtnbbpv
+mitaku.net###yjzvzjfvnksyziqlnlvnnlvrtzvirdzvewzevhujjsvkxwutkcjua
+mitaku.net###wfzkufzislvztbgnvzehrbkpyxedtaquezanacdkzwrmulhittzobmi
+mitaku.net###amcvhjemkltzwvqmxvbcrvnhmgdstjawkdmqmjjrdbiuctsztlyodpouik
+mitaku.net###nzliyjtszftagdivrpoxdjnftcezoeishvwrwrrxvtjdpqxbcdzixons
+mitaku.net###zkrwvvfawtoetbnmehncwpivgdywnvthivvcsvyjdsexuvutvwhmwodbudse
+mitaku.net###qdnymiyxnortlvnkmpyuhdkmhhdxjreoeehtugxmbmvyafebzipwxe
+mitaku.net###yknjnmdytzdjrmzsatbwwernxdnsqckpfrjnvbnmgtoutdptjftwtqqgna
+mitaku.net###mllhsxvqnetwvxnrdmyxaxegtzduzvyvkfjnyyyxpndnnrvfrzznfvny
+mitaku.net###ownycehjsflncuandrnfmtfltlhthntajwujdbdzizsmwyvtlmoqn
+mitaku.net###kfualjfqudxbpavpmnledupsnrmzdtrdrjamviquntnkjisvzfbzslkuh
+mitaku.net###oweynblqnlbgtvmrudveoxjrzklxbkrrrulmcctssuzmupbtvvczwrhay
+mitaku.net###tfmnprrxjyzzvzmvcbxranersfrmskqvvmnfzjnevxohhtdnrvstrmduu
+mitaku.net###cgryuyddljschayblvjadvcsuwzqzvuctbteaymtyclljlvdstbuvtp
+mitaku.net###bfjgtlflylhlqlvnakfoaemrhrnmjuhjmyjzcdgnnxdzzcrkd
+mitaku.net###ehfonunotkgrgvymxozkxlrkyuztnwmwlolfbduhnexxbhpnduoroi
+mitaku.net###smlxoxjptrkwtzqwucrnpqwwvzbwtvuxmtnrachnrvjlrckirautguwkt
+mitaku.net###nlhazuyvgfrvjrycsuwnrrywlzvfnrhrwzezbdtjgunmmdxluio
+mitaku.net###tnenxpickzitfrtbkrbgdvsgthczhztxnxoxjfssqajntnztdcqttfjor
+dlpsgame.com##[src*="https\:\/\/dlpsgame\.com\/wp-content\/uploads\/2015\/06\/media-51973\.jpg"]
+www.google.com##.XPuBac
+mitaku.net###dwjmngqnzqethxaklpchregpywfkdgtposqbqvnuzzrjvkazlhlsu
+mitaku.net###tdnaumtrgmcsyqthpnthobjfundjkcuhkwgtwdkmfpzqzbtbzlvpzb
+docs.google.com##.javascriptMaterialdesignGm3WizBannerBannerContent
+web.whatsapp.com##.x1rjt51p.x16w0wmm.x1g83kfv.x3qq2k7.x2x8art.x1qor8vf.xl7twdi.xyo0t3i.xvg22vi.xb0esv5.x98l61r.xviac27.x1ua1l7f.xlese2p.x1j3ira4.xrdqr27.x9f619.xg7h5cd.x78zum5.xdt5ytf.x6s0dn4
+mitaku.net###yxcefpztfreuwhutdmadvdbquvrkdnjadzirgtbbfezcqzehgbzaetta
+mitaku.net###nmfxaerowwccdjunetmvrjywtssitlnjbvvbxnnvosvvmthhrdeozutgylcu
+outlook.live.com##.kk1xx.lHRXq.iIsOF.OXL_K.UWKUc.rqCML.YmHO2.DLvHz
+www.instagram.com##.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x3j1f2j.xqb9ast.x1htk8sl.x19kjcj4.x1bcv9lm.x14v7lna.xtuz4j8
+cl.pinterest.com##.ADXRXN.Fm_EPH.NYgy1O.aHn_t7.bnBtRO.mJ2PyB.n62I2n > div:nth-of-type(1)
+cl.pinterest.com##.ADXRXN.Fm_EPH.NYgy1O.aHn_t7.bnBtRO.mJ2PyB.n62I2n
+mitaku.net###txzizgjasljjkriczcylpjyzqbkxuurhtjneefoeegzogduqjwqtypwua
+mitaku.net###crsnmjfmmdnllmuxrwwvastrovpgsthqvdhiddzwcflpyxgsyzrtjillm
+mitaku.net###ncpyllsknjwtnrgneytzavuhznvjnzknwakxcgfrwmswnwzzczvsdjo
+mitaku.net###dlrtzhffunjsuuqtnmyuxhdnockzevywsgtbsziwkrooffhbjzqqtyjqbb
+mitaku.net###ctvfzvjhdznnofqwztwslnkqwrkuufuvzfqwizdnuuxhcnvjyjjvttdvvll
+mitaku.net###vuybhilpyaxrunfpqawramjmqmodwtiugvtrwzmwjvcbkxmddutcccnp
+mitaku.net###elzqddllbdlnzxjurvjxdlrdnlikvnktxtnbzvhvnttkveqnlhkczfjnzh
+gghh.uk##.popup-iframe
+music.youtube.com##ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-of-type(21) > .ytmusic-shelf.style-scope.ytmusic-carousel-shelf-renderer
+www.google.com##.jnyxRd.Y5Ip8c
+
+
