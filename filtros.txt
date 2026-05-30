@@ -1,0 +1,51 @@
+! ====================
+! Mis filtros personales
+! ====================
+
+
+sxyprn.com##div.block_header:nth-of-type(6)
+x.com##div.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x:nth-of-type(4)
+sxyprn.com##div.cbd:nth-of-type(3)
+sxyprn.com##.comments_area
+www.eporner.com##[src*="/img/avatars/272780_200x200.jpg?1745616873"]
+sxyprn.com##div.post_el_small:has-text(#trans)
+sxyprn.com##div.post_el_small:has-text(#Trans)
+sxyprn.com##div.post_el_small:has-text(Hijab)
+sxyprn.com##div.post_el_small:has-text(TrannyLover)
+sxyprn.com##div.post_el_small:has-text(lorel)
+sxyprn.com##div.post_el_small:has-text(zilabuck)
+sxyprn.com##div.post_el_small:has-text(Blackmagicmodel)
+sxyprn.com##div.post_el_small:has-text(Shemale)
+
+simpcity.cr###js-XFUniqueId54 > .avatar-u4370586-m
+mitaku.net###yunvzuztywxyuvfwzvnvtmfesveyrtitzgyohzhdvazqjvgddkbexyzsdifd
+gghh.uk##.popup-iframe
+www.4khd.com##.popup-iframe
+www.eporner.com##.ad300px-inner
+www.eporner.com##.ad300px
+pornone.com##.grid-full-col.w-full
+hornysimp.com##.elementor-section.elementor-top-section.elementor-element.elementor-element-d31c47d.elementor-section-stretched.elementor-section-boxed.elementor-section-height-default
+
+sxyprn.com##.tbd > div
+www.eporner.com###pbwuvpad
+www.eporner.com###vidcontent > div:nth-of-type(3)
+www.blacked.com##.sc-c1c02655-0.kuJmBI
+vidara.so##.ad-download-box.mb-4.position-relative
+www.vixen.com##.sc-c1c02655-0.kuJmBI
+www.tushy.com##.sc-c1c02655-0.kuJmBI
+www.deeper.com##.sc-c1c02655-0.imKiRP
+www.pornpics.com##[src*="\/api\/banner\/get\/blacksonblondes"]
+www.pornpics.com##.thumbwook.r2-frame.r2-frame-static.r2-frame-on.stamp-bn-1
+www.blackedraw.com##.sc-c1c02655-0.kuJmBI
+www.milfy.com##.sc-c1c02655-0.kuJmBI
+www.tushyraw.com##.sc-c1c02655-0.kuJmBI
+
+mitaku.net##div:has-text(/Ads Blocker Detected|Please disable your ad blocker|powered by CHPadblock/i)
+mitaku.net##div[id^="chp-"]
+mitaku.net##div[class*="chp"]
+mitaku.net##body > div[style*="fixed"][style*="z-index"]
+mitaku.net##div[style*="overlay"]
+mitaku.net##*:has-text(/CHPadblock/i)
+mitaku.net##.chp-popup, .chp-modal, [id*="chpadblock"]
+
+
