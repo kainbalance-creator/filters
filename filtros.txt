@@ -9,7 +9,7 @@ sxyprn.com##div.block_header:nth-of-type(6)
 sxyprn.com##div.cbd:nth-of-type(3)
 sxyprn.com##.comments_area
 sxyprn.com##.tbd > div
-sxyprn.com##div.post_el_small:has-text(/\b#(trans|Trans|Hijab|TrannyLover|lorel|zilabuck|Blackmagicmodel|Shemale)\b/i)
+sxyprn.com##div.post_el_small:has-text(/\b#(trans|Trans|Hijab|TrannyLover|lorel|zilabuck|Blackmagicmodel|Pierced Queen of Spade|Shemale)\b/i)
 
 ! ====================
 ! MITAKU (CHPadblock)
