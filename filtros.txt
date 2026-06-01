@@ -9,9 +9,9 @@ sxyprn.com##div.block_header:nth-of-type(6)
 sxyprn.com##div.cbd:nth-of-type(3)
 sxyprn.com##.comments_area
 sxyprn.com##.tbd > div
-sxyprn.com##div.post_el_small:has-text(/\b#(trans|Trans|Hijab|TrannyLover|lorel|zilabuck|Blackmagicmodel|indian|Shemale)\b/i)
+sxyprn.com##div.post_el_small:has-text(/\b#(trans|Trans|Hijab|indian|Shemale)\b/i)
 
-sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egypt/i)
+sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egypt|TrannyLover|lorel|zilabuck|Blackmagicmodel/i)
 
 ! ====================
 ! MITAKU (CHPadblock)
