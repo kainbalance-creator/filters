@@ -11,7 +11,7 @@ sxyprn.com##.comments_area
 sxyprn.com##.tbd > div
 sxyprn.com##div.post_el_small:has-text(/\b#(trans|Trans|Hijab|indian|Shemale)\b/i)
 
-sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egypt|TrannyLover|lorel|zilabuck|Blackmagicmodel/i)
+sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egypt|TrannyLover|lorel|Izzy wilde|zilabuck|Blackmagicmodel/i)
 
 ! ====================
 ! MITAKU (CHPadblock)
