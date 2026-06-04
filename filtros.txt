@@ -59,6 +59,9 @@ outlook.live.com, onedrive.live.com##.LBktY > .GssDD > .z0duZ
 outlook.live.com, onedrive.live.com##.ms-MessageBar
 outlook.live.com##.fui-MessageBar
 outlook.live.com##.kk1xx.lHRXq.iIsOF
+outlook.live.com##.z0duZ.YCnM1
+outlook.live.com##.GssDD.Gd_12
+outlook.live.com##.LBktY > .GssDD
 
 ! ====================
 ! Otros
