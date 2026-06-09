@@ -52,8 +52,16 @@ www.pornpics.com##[src*="/api/banner/get/blacksonblondes"]
 www.pornpics.com##.thumbwook.r2-frame.r2-frame-static.r2-frame-on.stamp-bn-1
 
 pmvhaven.com##.bg-\[\#1A1A1A\].rounded-lg.p-4.space-y-4
+pmvhaven.com##div.my-6:nth-of-type(2) > .inline-scroll-banner.ad-link
+pmvhaven.com##.undress-ai-animated-btn.ad-link.px-3.py-2.rounded-lg.transition-all.duration-200
+pmvhaven.com##a.native-ad-card.ad-link
 
 vidara.so##.ad-download-box.mb-4.position-relative
+
+
+
+
+
 
 ! ====================
 ! Microsoft / Outlook / Onedrive
