@@ -60,6 +60,10 @@ vidara.so##.ad-download-box.mb-4.position-relative
 
 fuskator.com###overlay,#entrance_terms
 
+pornone.com###embed-modal
+
+www.porntrex.com,www.whoreshub.com###overlay
+
 
 ! ====================
 ! ytm / yt
