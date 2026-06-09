@@ -25,11 +25,11 @@ mitaku.net##div[style*="overlay"]
 mitaku.net##*:has-text(/CHPadblock/i)
 mitaku.net##.chp-popup, .chp-modal, [id*="chpadblock"]
 
-! ====================
-! Otros sitios
-! ====================
-x.com##div.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x:nth-of-type(4)
 
+
+! ====================
+! pron
+! ====================
 www.eporner.com##[src*="/img/avatars/272780_200x200.jpg"]
 www.eporner.com##.ad300px-inner, .ad300px
 www.eporner.com###pbwuvpad
@@ -51,6 +51,8 @@ www.deeper.com##.sc-c1c02655-0.imKiRP
 www.pornpics.com##[src*="/api/banner/get/blacksonblondes"]
 www.pornpics.com##.thumbwook.r2-frame.r2-frame-static.r2-frame-on.stamp-bn-1
 
+pmvhaven.com##.bg-\[\#1A1A1A\].rounded-lg.p-4.space-y-4
+
 vidara.so##.ad-download-box.mb-4.position-relative
 
 ! ====================
@@ -67,6 +69,7 @@ outlook.live.com##.LBktY > .GssDD
 ! ====================
 ! Otros
 ! ====================
+x.com##div.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x:nth-of-type(4)
 dlpsgame.com##[src*="dlpsgame.com/wp-content/uploads/2015/06/media-51973.jpg"]
 www.google.com##.XPuBac
 docs.google.com##.javascriptMaterialdesignGm3WizBannerBannerContent
