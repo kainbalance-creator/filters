@@ -92,3 +92,7 @@ www.instagram.com##.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x3j1f2j.xqb9ast.x1htk8sl.
 
 www.google.com##.jnyxRd.Y5Ip8c
 web.whatsapp.com##.x1rjt51p.x1280gxy.x1g83kfv.x3qq2k7.x2x8art.x1qor8vf.xl7twdi.xyo0t3i.xvg22vi.xb0esv5.x98l61r.xviac27.x1ua1l7f.xlese2p.x1j3ira4.xrdqr27.x9f619.xg7h5cd.x78zum5.xdt5ytf.x6s0dn4
+
+joyreactor.com##[src*="https\:\/\/reactor\.cc\/images\/menubars\/AI3\.jpg"]
+joyreactor.com##[src*="https\:\/\/reactor\.cc\/images\/menubars\/sweet-ai-girls\.png"]
+
