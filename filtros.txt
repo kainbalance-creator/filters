@@ -58,6 +58,8 @@ pmvhaven.com##a.native-ad-card.ad-link
 
 vidara.so##.ad-download-box.mb-4.position-relative
 
+fuskator.com###overlay,#entrance_terms
+
 
 ! ====================
 ! ytm / yt
