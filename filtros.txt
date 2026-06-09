@@ -59,9 +59,11 @@ pmvhaven.com##a.native-ad-card.ad-link
 vidara.so##.ad-download-box.mb-4.position-relative
 
 
+! ====================
+! ytm / yt
+! ====================
 
-
-
+music.youtube.com##ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-of-type(21) > .ytmusic-shelf.style-scope.ytmusic-carousel-shelf-renderer
 
 ! ====================
 ! Microsoft / Outlook / Onedrive
@@ -85,3 +87,6 @@ web.whatsapp.com##.x1rjt51p.x16w0wmm.x1g83kfv.x3qq2k7.x2x8art.x1qor8vf.xl7twdi.x
 music.youtube.com##ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-of-type(21)
 cl.pinterest.com##.ADXRXN.Fm_EPH.NYgy1O.aHn_t7.bnBtRO.mJ2PyB.n62I2n
 www.instagram.com##.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x3j1f2j.xqb9ast.x1htk8sl.x19kjcj4.x1bcv9lm.x14v7lna.xtuz4j8
+
+www.google.com##.jnyxRd.Y5Ip8c
+web.whatsapp.com##.x1rjt51p.x1280gxy.x1g83kfv.x3qq2k7.x2x8art.x1qor8vf.xl7twdi.xyo0t3i.xvg22vi.xb0esv5.x98l61r.xviac27.x1ua1l7f.xlese2p.x1j3ira4.xrdqr27.x9f619.xg7h5cd.x78zum5.xdt5ytf.x6s0dn4
