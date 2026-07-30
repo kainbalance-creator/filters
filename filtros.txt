@@ -100,3 +100,9 @@ web.whatsapp.com##.x1rjt51p.x1280gxy.x1g83kfv.x3qq2k7.x2x8art.x1qor8vf.xl7twdi.x
 joyreactor.com##[src*="https\:\/\/reactor\.cc\/images\/menubars\/AI3\.jpg"]
 joyreactor.com##[src*="https\:\/\/reactor\.cc\/images\/menubars\/sweet-ai-girls\.png"]
 
+
+www.instagram.com##.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div.x1qjc9v5.x9f619.x78zum5.xdt5ytf.x1iyjqo2.xl56j7k:nth-of-type(1)
+www.instagram.com##.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj
+www.instagram.com##div.x1n2onr6.xzkaem6:nth-of-type(5) > div:nth-of-type(2) > .x1n2onr6.xzkaem6 > div.x9f619.x1n2onr6.x1ja2u2z:nth-of-type(1) > .x78zum5.xdt5ytf.xg6iff7.xippug5.x1n2onr6 > .x1ey2m1c.xtijo5x.x1o0tod.xixxii4.x13vifvy.x1h0vfkc
+vidara.so##.relative.mb-5.rounded-xl.p-7.text-center
+
