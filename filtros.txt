@@ -12,7 +12,7 @@ sxyprn.com##.tbd > div
 #sxyprn.com##div.post_el_small:has-text(/\b#(trans|Trans|Hijab|indian|Shemale|ts|transgender|ftm|mtf|ladyboy|sissy|crossdress|crossdresser|femboy)\b/i)
 sxyprn.com##div.post_el_small:has-text(/\b#(trans|transgender|ftm|mtf|hijab|trannylover|ladyboy|sissy|crossdress|crossdresser|femboy|lorel|zilabuck|blackmagicmodel|shemale|ts)\b/i)
 
-sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egypt|Hijab|Indian|TrannyLover|Trans|lorel|Izzy wilde|zilabuck|Pregnant|Femboy|Blackmagicmodel/i)
+sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egypt|Hijab|Indian|TrannyLover|Trans|lorel|Izzy wilde|zilabuck|Pregnant|Arab|Femboy|Blackmagicmodel/i)
 
 ! ====================
 ! MITAKU (CHPadblock)
