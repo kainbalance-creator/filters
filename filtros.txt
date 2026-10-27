@@ -16,7 +16,9 @@ sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egyp
 
 sxyprn.com##[href*="https\:\/\/s\.zline0\.com\/v1\/d\.php"] > .transition
 sxyprn.com##.sharing_toolbox
-sxyprn.com##.main_content > div:nth-of-type(1)
+
+sxyprn.com##[href*="http\:\/\/theporndude\.com\/"]
+sxyprn.com##[src*="AAABAAEAEBAAAAAAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD\/\/\/8B\/\/\/\/Af\/\/\/wEiVqIHI1imYS9jtbs4asDrNGW9\/zRlvf8vZLzrH1auuS5gq2HK2OwH\/\/\/\/Af\/\/\/wH\/\/\/8B\/\/\/\/Af\/\/\/wEBLnMxFUSMyTNYmv9EY6H\/YYzI\/4a\/\+\/\+Fvvr\/X4nF\/0Vkof80WZr\/GkiOxwo7hS\/\/\/\/8B\/\/\/\/AbS0"]
 
 ! ====================
 ! MITAKU (CHPadblock)
