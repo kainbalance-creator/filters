@@ -10,9 +10,9 @@ sxyprn.com##div.cbd:nth-of-type(3)
 sxyprn.com##.comments_area
 sxyprn.com##.tbd > div
 #sxyprn.com##div.post_el_small:has-text(/\b#(trans|Trans|Hijab|indian|Shemale|ts|transgender|ftm|mtf|ladyboy|sissy|crossdress|crossdresser|femboy)\b/i)
-sxyprn.com##div.post_el_small:has-text(/\b#(trans|transgender|ftm|mtf|hijab|trannylover|ladyboy|sissy|crossdress|crossdresser|femboy|lorel|zilabuck|blackmagicmodel|shemale|ts)\b/i)
+sxyprn.com##div.post_el_small:has-text(/\b#(trans|transgender|ftm|mtf|hijab|trannylover|ladyboy|sissy|crossdress|crossdresser|femboy|lorel|zilabuck|blackmagicmodel|shemale|ts|Natalie mars|shemale|tranny|sissy|gay)\b/i)
 
-sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egypt|Hijab|Indian|TrannyLover|Trans|lorel|Izzy wilde|zilabuck|Pregnant|Arab|Femboy|Bambifyme|Blackmagicmodel/i)
+sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egypt|Hijab|Indian|TrannyLover|Trans|lorel|Izzy wilde|zilabuck|Pregnant|Arab|Femboy|Bambifyme|Blackmagicmodel|Natalie mars|shemale|tranny|sissy|gay/i)
 
 sxyprn.com##[href*="https\:\/\/s\.zline0\.com\/v1\/d\.php"] > .transition
 sxyprn.com##.sharing_toolbox
@@ -70,6 +70,8 @@ fuskator.com###overlay,#entrance_terms
 pornone.com###embed-modal
 
 www.porntrex.com,www.whoreshub.com###overlay
+
+noodlemagazine.com##div.item:has-text(/pierced queen of spade|The Official Egypt|Hijab|Indian|TrannyLover|Trans|lorel|Izzy wilde|zilabuck|Pregnant|Arab|Femboy|Bambifyme|Blackmagicmodel|Natalie mars|shemale|tranny|sissy|gay/i)
 
 
 ! ====================
