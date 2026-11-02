@@ -12,7 +12,7 @@ sxyprn.com##.tbd > div
 #sxyprn.com##div.post_el_small:has-text(/\b#(trans|Trans|Hijab|indian|Shemale|ts|transgender|ftm|mtf|ladyboy|sissy|crossdress|crossdresser|femboy)\b/i)
 sxyprn.com##div.post_el_small:has-text(/\b#(trans|transgender|ftm|mtf|hijab|trannylover|ladyboy|sissy|crossdress|crossdresser|femboy|lorel|zilabuck|blackmagicmodel|shemale|ts|Natalie mars|shemale|tranny|sissy|gay)\b/i)
 
-sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egypt|Hijab|Indian|TrannyLover|Trans|lorel|Izzy wilde|zilabuck|Pregnant|Arab|Femboy|Bambifyme|Blackmagicmodel|Natalie mars|shemale|tranny|sissy|gay/i)
+sxyprn.com##div.post_el_small:has-text(/pierced queen of spade|The Official Egypt|Hijab|Indian|TrannyLover|Trans|lorel|Izzy wilde|zilabuck|Pregnant|Arab|Femboy|Bambifyme|Blackmagicmodel|Natalie mars|shemale|tranny|sissy|gay|Cuckold|/i)
 
 sxyprn.com##[href*="https\:\/\/s\.zline0\.com\/v1\/d\.php"] > .transition
 sxyprn.com##.sharing_toolbox
